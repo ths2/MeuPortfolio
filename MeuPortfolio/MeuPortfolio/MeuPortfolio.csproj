@@ -163,18 +163,11 @@
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="Imagens\download.png" />
-    <Content Include="Imagens\eclipse.png" />
-    <Content Include="Imagens\eu.png" />
-    <Content Include="Imagens\git.png" />
-    <Content Include="Imagens\opencv.png" />
-    <Content Include="Imagens\Unity.png" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <None Include="Properties\PublishProfiles\thssilva - FTP.pubxml" />
-    <None Include="Properties\PublishProfiles\thssilva - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
